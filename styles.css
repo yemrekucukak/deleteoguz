@@ -6,7 +6,7 @@ body{background-color: pink;}
     margin-top: 0;
     margin-right: 0.1em;
     text-decoration: none;
-    font-size: 4em;
+    font-size: 3em;
     background-color:rgb(71, 67, 67);
 }
 .navbar :hover{
@@ -117,7 +117,7 @@ width: 114vh;}
 #info2{position: relative;
 text-align: left;
 float: right;
-margin-left: 18vh;
+margin-left: 28vh;
 top: 6em;
 font-size: 2.4em;
 width: 90vh;}
@@ -273,13 +273,13 @@ font-size: 2.4em;}
 #finalll{color: red;
 font-size: 4em;}
 
-.optionsss{margin-left: 0.8em;
-font-size: 2.9em;}
+.optionsss{margin-left: 0.6em;
+font-size: 2.8em;}
 
 
 #animatedno{display: none;}
 #YES{margin-right: 0.15em;
-margin-left: 0.3em;
+margin-left: 0.15em;
 font-size: 1.5em;
 height: 30vh;
 width: 18vw;}
@@ -294,21 +294,21 @@ z-index: -1;}
 
 
 
-#perhaps{margin-right: 0.15em;
+#perhaps{margin-right: 0em;
 font-size: 1.2em;
 height:30vh;
 width:18vw;}
 #perhaps:hover{visibility: hidden;}
 #animatednope{display: none}
 #noonoo{position: relative;
-left: -18vw;
+left: -16vw;
 top: 8vh;
 height: 30vh;
 width: 12vw;
 z-index: -1;}
 
 #linkkk{color:black;}
-#no{font-size: 1.5em;
+#no{font-size: 1.2em;
 height:30vh;}
 #no:hover{
     background-color: green;
